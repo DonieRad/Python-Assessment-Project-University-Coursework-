@@ -1,14 +1,7 @@
 # Python-Assessment-Project-University-Coursework-
 This repository contains my solutions for the **Programming and Algorithms (DAM101)** assessment. The tasks cover Python fundamentals such as loops, sets, file handling, and user input validation.  
 
-I’ve included both the **assessment brief** and my completed solutions in **Python scripts**.
-
----
-
-## Repository Structure
-- **assessment-brief/** → The original exam paper (with task descriptions).
-- **scripts/** → Individual Python scripts for each task.
-- **task3** → requires numbers2.txt in scripts/ folder.
+I’ve included both the **assessment brief** and my completed solutions in **Python scripts**. Also a **task3** → requires numbers2.txt in scripts/ folder.
 
 ---
 
